@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MGHS Timetable</string>
+    <string name="widget_name">Timetable Widget</string>
+    <string name="school_name">J/Methodist Girls High School</string>
+    <string name="teacher_name">Teacher A. Nilujan</string>
+</resources>
